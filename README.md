@@ -27,7 +27,6 @@ distance =math.sqrt((x2-x1)**2+(y2-y1)**2)
 print("{:.2f}".format(distance))
 ``````
 ### OUTPUT:
-![Alt text](/Screenshot%202023-11-18%20131718-1.png)
-
+![Alt text](/Screenshot%202023-11-18%20131718.png)
 ### RESULT:
 Thus the distance between two points are executed sucessfully
