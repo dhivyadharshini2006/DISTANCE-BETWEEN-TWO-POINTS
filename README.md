@@ -8,9 +8,9 @@ import math
 ### Step 2:
 Initialise the two values 
 ### Step 3: 
-Substitute the values in distance  formula 
+Substitute the values in distance  formula ![output](formula-2.JPG)
 ### Step 4:
-Print the values in using format to display the values with two points
+Print the values using format to display the values with two points
 ### Step 5: 
 End the program
 ### PROGRAM:
